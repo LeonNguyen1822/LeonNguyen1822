@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thu1808&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Thu1808&icon=2&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Thu1808&label=Profile%20Views&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
