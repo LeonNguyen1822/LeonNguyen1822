@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science at Swinburne University of Technology Australia<br>👯 I’m looking to collaborate on data projects, web development, and software development,...<br>🤝I am a talented, ambitious, and hardworking individual with broad skills<br>and experience in digital, Laravel, PHP, HTML, CSS, and other code<br>languages.<br>💬 Ask me about Python, Ruby, C++, C#. 
+🔭 As a Bachelor of Computer Science in Data Science graduate from Swinburne University of Technology, Australia, I’m applying my skills to build innovative solutions in web development,software engineering, and data analytics<br>
+👯 Let’s Collaborate!: I’m always open to collaborating on exciting projects, including data science, <b>Laravel development</b>, and creating dynamic, user-friendly applications.<br>
+🤝Who Am I?: A talented and driven developer with hands-on experience in <b>PHP, HTML, CSS, JavaScript</b>, and various programming frameworks like <b>Laravel, Bootstrap, Tailwind CSS, Wordpress, and JQuery</b>. I’m passionate about problem-solving and crafting responsive designs that elevate user experiences.<br>
+✨ Recent Highlights:
+
+<li>Designed and developed a restaurant website, achieving 40% faster page load times with asset optimization and caching.</li>
+
+<li>Fixed 30+ UI/UX bugs in an e-commerce platform, reducing complaints by 45% and boosting customer satisfaction.</li>
+
+<li>Migrated 50,000+ medical records to MongoDB with 100% accuracy as part of a health-tech project</li> <br>
+
+🌱What Drives Me: Continuous learning, teamwork, and delivering meaningful results for challenging projects..
 
 
 ## 🌐 Socials:
